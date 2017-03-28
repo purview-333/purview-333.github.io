@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## What is Purview?
 
-You can use the [editor on GitHub](https://github.com/purview-333/purview-333.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Once you have submitted your design document, a link to it should be included. Additionally, a list of the milestones timeline from that document should be included in HTML form on your website, along with adjustments to the timeline as the project progresses and the goals shift.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Once your team has developed its "elevator speech", that should also be included on the website.
 
-### Markdown
+Your project's elevator speech should be a single paragraph that states clearly and succinctly what your system does. What would you say if you were alone in an elevator with Bill Gates for 60 seconds, and wanted him to fund your project? The speech should be a short attention-grabbing description without big words but with good buzzwords.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Milestones Timeline
 
-```markdown
-Syntax highlighted code block
+ Date | Features | Status 
+ --- | --- | ---
+ 3/24/17 | End-to-end connectivity with API | **Completed**
+ | Project status site | **Completed**
+ | User creation and persistence | __*In progress*__
+ 3/31/17 | Video search | *Not started*
+ | Video upload | *Not started*
+ 4/7/17 | Voting system | *Not started*
+ | Hall of fame | *Not started*
+ 4/14/17 | Prototype version | *Not started*
+ 4/28/17 | Alpha phase | *Not started*
+ 5/5/17 | Beta phase | *Not started*
+ 5/14/17 | Project complete | *Not started*
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purview-333/purview-333.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
