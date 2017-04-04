@@ -12,9 +12,9 @@ Your project's elevator speech should be a single paragraph that states clearly 
  --- | --- | ---
  3/24/17 | End-to-end connectivity with API | **Completed**
  | Project status site | **Completed**
- | User creation and persistence | __*In progress*__
- 3/31/17 | Video search | *Not started*
- | Video upload | *Not started*
+ | User creation and persistence | **Completed**
+ 3/31/17 | Video search | __*In progress*__
+ | Video upload | __*In progress*__
  4/7/17 | Voting system | *Not started*
  | Hall of fame | *Not started*
  4/14/17 | Prototype version | *Not started*
