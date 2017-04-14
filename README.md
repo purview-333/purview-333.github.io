@@ -13,11 +13,11 @@ Your project's elevator speech should be a single paragraph that states clearly 
  3/24/17 | End-to-end connectivity with API | **Completed**
  | Project status site | **Completed**
  | User creation and persistence | **Completed**
- 3/31/17 | Video search | __*In progress*__
- | Video upload | __*In progress*__
- 4/7/17 | Voting system | *Not started*
- | Hall of fame | *Not started*
- 4/14/17 | Prototype version | *Not started*
+ 4/7/17 | Video search | **Completed**
+ | Video upload | **Completed**
+ 4/14/17 | Voting system | __*In progress*__
+ 4/14/17 | Prototype version | __*In progress*__
+ 4/21/17 | Hall of fame | __*In progress*__
  4/28/17 | Alpha phase | *Not started*
  5/5/17 | Beta phase | *Not started*
  5/14/17 | Project complete | *Not started*
