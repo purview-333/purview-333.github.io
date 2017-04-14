@@ -4,7 +4,7 @@ Once you have submitted your design document, a link to it should be included. A
 
 Purview is a anonymous public content-sharing platform that allows users to share short videos with everyone around them. Purview integrates the anonymous geolocation-based feed of Yik Yak, the short-video focus of Vine and an extended version of the 'Stories' feature of Snapchat to offer university students and passionate video-makers a fast and fun way to share their experiences with everyone near them. It is the first video sharing platform that allows users to not only anonymously share content, but also to quickly catch up with what is happening in their surrounding area by viewing through the eyes of their peers near them. 
 
-A Picture is worth a thousand words. And Purview allows you to share more than just a picture ... seamlessly and with everyone.
+A picture is worth a thousand words. And Purview allows you to share more than just a picture ... seamlessly and with everyone.
 
 ### Milestones Timeline
 
