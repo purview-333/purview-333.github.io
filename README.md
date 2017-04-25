@@ -14,9 +14,9 @@ A picture is worth a thousand words. And Purview allows you to share more than j
  4/7/17 | Video search | **Completed**
  | Video upload | **Completed**
  4/14/17 | Prototype version | **Completed**
- 4/14/17 | Voting system | __*In progress*__ 
+ | Voting system | __*In progress*__ 
  4/28/17 | Alpha phase | __*In progress*__ 
  5/5/17 | Hall of fame | *Not started*
- 5/5/17 | Beta phase | *Not started*
+| Beta phase | *Not started*
  5/14/17 | Project complete | *Not started*
 
