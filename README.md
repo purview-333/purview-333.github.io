@@ -15,7 +15,7 @@ A picture is worth a thousand words. And Purview allows you to share more than j
  | Video upload | **Completed**
  4/14/17 | Prototype version | **Completed**
  | Voting system | **Completed**
- 4/28/17 | Alpha phase | __*In progress*__ 
+ 4/28/17 | Alpha phase | **Completed** 
  5/5/17 | Hall of fame | *Not started*
 | Beta phase | *Not started*
  5/14/17 | Project complete | *Not started*
